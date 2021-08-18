@@ -1,0 +1,30 @@
+.name{
+    color: rgb(28, 37, 28);
+    font-size: 1rem;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div p {
+    text-align: left;
+}
+.padding{
+    padding: 25px;
+}
+.name2{
+    color: darkgreen;
+}
+.name3{
+    color: darkgreen;
+}
+.name4{
+    color: darkgreen;
+}
+.name5{
+    color: darkgreen;
+}
+.name6{
+    color: darkgreen;
+}
+body{
+    line-height: 1.8;
+}
